@@ -1,0 +1,9 @@
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1.DAL.Migrations\bin\Debug\netstandard2.0\Test1.DAL.Migrations.deps.json
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1.DAL.Migrations\bin\Debug\netstandard2.0\Test1.DAL.Migrations.dll
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1.DAL.Migrations\bin\Debug\netstandard2.0\Test1.DAL.Migrations.pdb
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1.DAL.Migrations\obj\Debug\netstandard2.0\Test1.DAL.Migrations.csprojAssemblyReference.cache
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1.DAL.Migrations\obj\Debug\netstandard2.0\Test1.DAL.Migrations.AssemblyInfoInputs.cache
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1.DAL.Migrations\obj\Debug\netstandard2.0\Test1.DAL.Migrations.AssemblyInfo.cs
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1.DAL.Migrations\obj\Debug\netstandard2.0\Test1.DAL.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1.DAL.Migrations\obj\Debug\netstandard2.0\Test1.DAL.Migrations.dll
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1.DAL.Migrations\obj\Debug\netstandard2.0\Test1.DAL.Migrations.pdb

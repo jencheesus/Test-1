@@ -1,0 +1,9 @@
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1DAL\bin\Debug\netstandard2.1\Test1DAL.deps.json
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1DAL\bin\Debug\netstandard2.1\Test1DAL.dll
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1DAL\bin\Debug\netstandard2.1\Test1DAL.pdb
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1DAL\obj\Debug\netstandard2.1\Test1DAL.csprojAssemblyReference.cache
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1DAL\obj\Debug\netstandard2.1\Test1DAL.AssemblyInfoInputs.cache
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1DAL\obj\Debug\netstandard2.1\Test1DAL.AssemblyInfo.cs
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1DAL\obj\Debug\netstandard2.1\Test1DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1DAL\obj\Debug\netstandard2.1\Test1DAL.dll
+C:\Users\Jenna\Documents\School\Computing\Discord Project\Test 1\Test1DAL\obj\Debug\netstandard2.1\Test1DAL.pdb

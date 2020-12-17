@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8OlESTTpIXLjWQHe+hP2FU+5umNt2XmLW1vo/TIBlf9b33jxIRjQZWP/IukflJHWPlRHZFe7x9bRnYq1PXMipQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jenna\\Documents\\School\\Computing\\Discord Project\\Test 1\\Test1.DAL.Migrations\\Test1.DAL.Migrations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jenna\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jenna\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
